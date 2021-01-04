@@ -23,6 +23,5 @@
 <!ATTLIST shipTo country CDATA #REQUIRED>
 <!ATTLIST billTo country CDATA #REQUIRED>
 <!ATTLIST item partNum CDATA #REQUIRED>
-<!ATTLIST item partNum CDATA #REQUIRED>
 <!ATTLIST ship_method type CDATA #REQUIRED>
 
